@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam Singh</h1>
+<h1 align="center">Hi 👋, I'm Shivam </h1>
 <h3 align="center">A passionate learner diving into Data Science, DSA, and Web Development</h3>
 
 ---
